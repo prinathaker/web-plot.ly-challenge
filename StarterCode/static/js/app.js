@@ -208,7 +208,7 @@ function GaugeChart(idNum) {
 
 // Initialization: do the load on the data, set up the menu, and draw the initial graphs
 function initialization () {
-    d3.json("./samples.json").then(function(jsonData) {
+    d3.json("./StarterCode/samples.json").then(function(jsonData) {
         console.log("Gathering Data");
         data = jsonData;
         console.log("Keys: " + Object.keys(data));
