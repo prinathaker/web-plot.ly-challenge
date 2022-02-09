@@ -1,3 +1,5 @@
+Github Page: https://prinathaker.github.io/web-plot.ly-challenge/
+
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
